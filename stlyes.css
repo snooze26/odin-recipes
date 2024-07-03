@@ -1,0 +1,25 @@
+* {
+    background-color: #EDE8F5;
+    color: #8697C4;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.recipes{
+    display: flex;
+    flex: 33.33%;
+    padding: 15px;
+    float: inline-start;
+
+
+}
+
+img {
+    border-radius: 50%;
+    border-color: #3d52a0;
+    border-style: double;
+}
+
+
+

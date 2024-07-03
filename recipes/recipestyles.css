@@ -1,0 +1,51 @@
+* {
+    background-color: #EDE8F5;
+    color: #8697C4;
+    font-family: 'Courier New', Courier, monospace;
+    text-wrap: wrap;
+
+}
+
+
+#joke {
+    font-size: 10px;
+    color: #3d52a0;
+    margin-left: 4%;
+}
+
+ol.steps{
+    
+    margin: 2%;
+    margin-left: 3%;
+    font-size: 20px;
+    
+}
+
+ul.ingredients{
+    margin: 2%;
+    font-size: 20px;
+
+
+
+}
+
+strong#ingredientsHeader{
+    margin-left: 5.5%;
+}
+
+strong#stepsHeader{
+    margin-left: 7%;
+}
+*/
+
+
+body{
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    margin-left: 5%;
+}
